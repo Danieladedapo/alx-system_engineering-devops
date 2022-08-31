@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd "prints the absolute path name" 
+pwd prints the absolute path name"
