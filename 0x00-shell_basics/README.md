@@ -1,2 +1,2 @@
-#!/bin/bas
-my first README 
+#!/bin/bash
+alx "a script that prints the absolute path name of the current working directory" 
